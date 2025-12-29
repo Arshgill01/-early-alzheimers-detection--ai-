@@ -3,7 +3,7 @@
 
 <p align="center">
   <strong>AI 4 Alzheimer's Hackathon Submission</strong><br>
-  <em>Hack4Health | December 2024</em>
+  <em>Hack4Health | December 2025</em>
 </p>
 
 ---
