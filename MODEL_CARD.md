@@ -1,7 +1,7 @@
 # Model Card: Alzheimer's MRI Classification
 
 > **Hackathon Submission**: [AI 4 Alzheimer's](https://ai4alzheimers.devpost.com/) | Hack4Health  
-> **Last Updated**: December 2024
+> **Last Updated**: December 2025
 
 ---
 
