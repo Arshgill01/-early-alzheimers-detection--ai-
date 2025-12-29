@@ -217,7 +217,7 @@ The model serves as a **foundation for AI-assisted preliminary screening**, cont
 
 1. Tan, M., & Le, Q. (2019). EfficientNet: Rethinking Model Scaling for CNNs. *ICML*.
 2. Selvaraju, R. R., et al. (2017). Grad-CAM: Visual Explanations from Deep Networks. *ICCV*.
-3. Alzheimer's Association. (2024). Alzheimer's Disease Facts and Figures.
+3. Alzheimer's Association. (2025). Alzheimer's Disease Facts and Figures.
 
 ---
 

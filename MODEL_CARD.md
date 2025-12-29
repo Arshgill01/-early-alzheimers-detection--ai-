@@ -311,10 +311,10 @@ All experiments use fixed random seeds for reproducibility:
 If you use this model in your research, please cite:
 
 ```bibtex
-@misc{alzheimer_efficientnet_2024,
+@misc{alzheimer_efficientnet_2025,
   title={Early Alzheimer's Detection from Brain MRI using Deep Learning},
   author={AI 4 Alzheimer's Hackathon Participant},
-  year={2024},
+  year={2025},
   publisher={Hack4Health},
   note={AI 4 Alzheimer's Hackathon Submission}
 }
