@@ -229,5 +229,5 @@ The model serves as a **foundation for AI-assisted preliminary screening**, cont
 ---
 
 <p align="center">
-<strong>AI 4 Alzheimer's Hackathon | Hack4Health | December 2024</strong>
+<strong>AI 4 Alzheimer's Hackathon | Hack4Health | December 2025</strong>
 </p>
