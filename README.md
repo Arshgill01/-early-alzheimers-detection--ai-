@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <strong>🏆 AI 4 Alzheimer's Hackathon | Hack4Health | December 2024</strong>
+  <strong>🏆 AI 4 Alzheimer's Hackathon | Hack4Health | December 2025</strong>
 </p>
 
 <p align="center">
