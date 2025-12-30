@@ -8,12 +8,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://ai4alzheimers.devpost.com/">Hackathon Page</a> •
-  <a href="#quick-start">Quick Start</a> •
-  <a href="#results">Results</a> •
-  <a href="#documentation">Documentation</a>
-</p>
 
 ---
 
