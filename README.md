@@ -7,9 +7,6 @@
   <img src="https://img.shields.io/badge/License-Educational-yellow?style=for-the-badge" alt="License">
 </p>
 
-<p align="center">
-  <strong>🏆 AI 4 Alzheimer's Hackathon | Hack4Health | December 2025</strong>
-</p>
 
 <p align="center">
   <a href="https://ai4alzheimers.devpost.com/">Hackathon Page</a> •
